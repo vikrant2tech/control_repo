@@ -3,3 +3,6 @@ mod 'puppetlabs-sttdlib'
 mod 'puppetlabs-concat'
 mod 'pltraining-dockeragent'
 mod 'garethr-docker'
+puppetlabs-apt
+puppetlabs-translate
+stahnma-epel
