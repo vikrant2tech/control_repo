@@ -10,3 +10,6 @@ node 'master.puppet.vm' {
 }
 node 'web.puppet.vm' {
 }
+node 'db.puppet.vm' {
+  include role::master_server
+}
